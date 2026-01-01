@@ -6,6 +6,12 @@ Speed up Binghamton CAS login with just 1-click
 
 
 
+## Installation
+
+[Link to Chrome Extension](https://chromewebstore.google.com/detail/bnaobggimbogmbjlgihckcnnfjjpehom)
+
+Please leave a review, thank you :)
+    
 ## User Manual
 
 [Link to user manual](https://bfs.hariprasath.com/)
@@ -21,7 +27,6 @@ No, You save your password in Chrome. Extension doesn't work if username+passwor
 
 If you don't know your secret, go to the 2FA set up page to get your QR.
 Or, if you use the Autheticator chrome extension already. Take a screenshot of the QR for your 2FA, open the screenshot image in new tab and hit "Scan QR" in BingFastLogin.
-Will add further instructions soon.
 
 
 
