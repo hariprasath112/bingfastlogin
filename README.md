@@ -14,8 +14,8 @@ Please leave a review, thank you :)
     
 ## User Manual
 
-[Link to user manual]((https://bfl.hariprasath.com/))
-{currently facing dns issues}
+[Link to user manual](https://bfl.hariprasath.com/)
+(currently facing dns issues)
 
 
 ## FAQ
